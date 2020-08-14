@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(77, 77, 77);
+    margin-right: 20%;
+    margin-left: 20%;
+    border-style: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+ #Header {
+    text-align: center;
+    color: whitesmoke;
+    background-color: grey;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+     }
+     
+ #Footer {
+    text-align: center;
+    color: whitesmoke;
+    background-color: grey;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+img {
+    border-width: 1pt;
+    border-radius: 20%;
+    border-style: solid;
+    border-color: black;
+}
+li {
+    font-size: larger;
+    
+}
+li.Fire {
+    color: rgb(255, 104, 104);
+}
+li.Grass {
+    color: lightgreen;
+}
+li.Water {
+    color: lightblue;
+}
+h2.F {
+    color: red;
+}
+h2.G {
+    color: green;
+}
+h2.W {
+    color: blue;
+}
+
+a {
+    color: white;
+}
